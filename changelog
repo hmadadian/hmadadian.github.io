@@ -1,0 +1,26 @@
+Feature: Added in-app purchase
+Feature: Added apply voucher
+Feature: Added user libraries to dashboard
+Feature: Added categories to dashboard for better navigation
+Feature: Added User lists
+Feature: Implemented add to lists
+Feature: Changed Authentication UI/UX
+Feature: Added OTP authentication method
+Feature: Added custom offers banner
+Feature: Added optinal naviagtion for hero sliders
+
+Fixed: User being logged out because of network failure
+Fixed: Download manager autostart bug
+Fixed: Last episode in player bug
+Fixed: Notifications mark all as read bug
+Fixed: Download manager causes crash for red users
+Fixed: Hero sections initial timer bug
+Fixed: Download manager lag
+Fixed: Recaptcha bugs
+
+Improved: Title frame images
+Improved: Archives performance
+Improved: Download manager performance
+
+Major dependency updates and migrations
+Overall quality-of-life improvement
